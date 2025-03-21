@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\LPR_2025\Aula5\Jogador\Jogador\obj\Debug\net9.0\Jogador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPR_2025\Aula5\Jogador\Jogador\obj\Debug\net9.0\Jogador.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPR_2025\Aula5\Jogador\Jogador\obj\Debug\net9.0\Jogador.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPR_2025\Aula5\Jogador\Jogador\obj\Debug\net9.0\Jogador.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPR_2025\Aula5\Jogador\Jogador\bin\Debug\net9.0\Jogador.exe
+C:\Users\alunos\Desktop\LPR_2025\Aula5\Jogador\Jogador\bin\Debug\net9.0\Jogador.deps.json
+C:\Users\alunos\Desktop\LPR_2025\Aula5\Jogador\Jogador\bin\Debug\net9.0\Jogador.runtimeconfig.json
+C:\Users\alunos\Desktop\LPR_2025\Aula5\Jogador\Jogador\bin\Debug\net9.0\Jogador.dll
+C:\Users\alunos\Desktop\LPR_2025\Aula5\Jogador\Jogador\bin\Debug\net9.0\Jogador.pdb
+C:\Users\alunos\Desktop\LPR_2025\Aula5\Jogador\Jogador\obj\Debug\net9.0\Jogador.dll
+C:\Users\alunos\Desktop\LPR_2025\Aula5\Jogador\Jogador\obj\Debug\net9.0\refint\Jogador.dll
+C:\Users\alunos\Desktop\LPR_2025\Aula5\Jogador\Jogador\obj\Debug\net9.0\Jogador.pdb
+C:\Users\alunos\Desktop\LPR_2025\Aula5\Jogador\Jogador\obj\Debug\net9.0\Jogador.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPR_2025\Aula5\Jogador\Jogador\obj\Debug\net9.0\ref\Jogador.dll

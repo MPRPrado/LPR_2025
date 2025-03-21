@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\LPR_2025\Aula5\ImparOUpara\obj\Debug\net9.0\ImparOUpara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPR_2025\Aula5\ImparOUpara\obj\Debug\net9.0\ImparOUpara.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPR_2025\Aula5\ImparOUpara\obj\Debug\net9.0\ImparOUpara.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPR_2025\Aula5\ImparOUpara\obj\Debug\net9.0\ImparOUpara.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPR_2025\Aula5\ImparOUpara\bin\Debug\net9.0\ImparOUpara.exe
+C:\Users\alunos\Desktop\LPR_2025\Aula5\ImparOUpara\bin\Debug\net9.0\ImparOUpara.deps.json
+C:\Users\alunos\Desktop\LPR_2025\Aula5\ImparOUpara\bin\Debug\net9.0\ImparOUpara.runtimeconfig.json
+C:\Users\alunos\Desktop\LPR_2025\Aula5\ImparOUpara\bin\Debug\net9.0\ImparOUpara.dll
+C:\Users\alunos\Desktop\LPR_2025\Aula5\ImparOUpara\bin\Debug\net9.0\ImparOUpara.pdb
+C:\Users\alunos\Desktop\LPR_2025\Aula5\ImparOUpara\obj\Debug\net9.0\ImparOUpara.dll
+C:\Users\alunos\Desktop\LPR_2025\Aula5\ImparOUpara\obj\Debug\net9.0\refint\ImparOUpara.dll
+C:\Users\alunos\Desktop\LPR_2025\Aula5\ImparOUpara\obj\Debug\net9.0\ImparOUpara.pdb
+C:\Users\alunos\Desktop\LPR_2025\Aula5\ImparOUpara\obj\Debug\net9.0\ImparOUpara.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPR_2025\Aula5\ImparOUpara\obj\Debug\net9.0\ref\ImparOUpara.dll

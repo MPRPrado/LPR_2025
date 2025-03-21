@@ -1,0 +1,14 @@
+C:\Users\alunos\Desktop\LPR_2025\Aula2\Ex3\obj\Debug\net9.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPR_2025\Aula2\Ex3\obj\Debug\net9.0\Ex3.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPR_2025\Aula2\Ex3\obj\Debug\net9.0\Ex3.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPR_2025\Aula2\Ex3\obj\Debug\net9.0\Ex3.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPR_2025\Aula2\Ex3\bin\Debug\net9.0\Ex3.exe
+C:\Users\alunos\Desktop\LPR_2025\Aula2\Ex3\bin\Debug\net9.0\Ex3.deps.json
+C:\Users\alunos\Desktop\LPR_2025\Aula2\Ex3\bin\Debug\net9.0\Ex3.runtimeconfig.json
+C:\Users\alunos\Desktop\LPR_2025\Aula2\Ex3\bin\Debug\net9.0\Ex3.dll
+C:\Users\alunos\Desktop\LPR_2025\Aula2\Ex3\bin\Debug\net9.0\Ex3.pdb
+C:\Users\alunos\Desktop\LPR_2025\Aula2\Ex3\obj\Debug\net9.0\Ex3.dll
+C:\Users\alunos\Desktop\LPR_2025\Aula2\Ex3\obj\Debug\net9.0\refint\Ex3.dll
+C:\Users\alunos\Desktop\LPR_2025\Aula2\Ex3\obj\Debug\net9.0\Ex3.pdb
+C:\Users\alunos\Desktop\LPR_2025\Aula2\Ex3\obj\Debug\net9.0\Ex3.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPR_2025\Aula2\Ex3\obj\Debug\net9.0\ref\Ex3.dll
