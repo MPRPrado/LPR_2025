@@ -1,9 +1,7 @@
-﻿using System;
+﻿﻿using System;
 
 internal class Program
-/* MATRIZ Crie um algoritmo que
-leia duas matrizes A e B, de tamanho 3x3, e
-calcule A*B. Dica abaixo:*/
+
 {
     static void Main(string[] args)
     {

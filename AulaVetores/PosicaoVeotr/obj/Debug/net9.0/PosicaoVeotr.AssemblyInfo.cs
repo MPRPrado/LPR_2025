@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PosicaoVeotr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+961c41dd6107189f52b0b4e4c160a1475406b601")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7e15cec571aa43c3b96e3ed67e4151e55f07f26")]
 [assembly: System.Reflection.AssemblyProductAttribute("PosicaoVeotr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PosicaoVeotr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
