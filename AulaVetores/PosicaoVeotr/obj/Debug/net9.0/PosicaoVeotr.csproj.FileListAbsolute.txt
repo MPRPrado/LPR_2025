@@ -1,0 +1,15 @@
+C:\Users\alunos\Desktop\LPR_2025\AulaVetores\PosicaoVeotr\bin\Debug\net9.0\PosicaoVeotr.exe
+C:\Users\alunos\Desktop\LPR_2025\AulaVetores\PosicaoVeotr\bin\Debug\net9.0\PosicaoVeotr.deps.json
+C:\Users\alunos\Desktop\LPR_2025\AulaVetores\PosicaoVeotr\bin\Debug\net9.0\PosicaoVeotr.runtimeconfig.json
+C:\Users\alunos\Desktop\LPR_2025\AulaVetores\PosicaoVeotr\bin\Debug\net9.0\PosicaoVeotr.dll
+C:\Users\alunos\Desktop\LPR_2025\AulaVetores\PosicaoVeotr\bin\Debug\net9.0\PosicaoVeotr.pdb
+C:\Users\alunos\Desktop\LPR_2025\AulaVetores\PosicaoVeotr\obj\Debug\net9.0\PosicaoVeotr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\Desktop\LPR_2025\AulaVetores\PosicaoVeotr\obj\Debug\net9.0\PosicaoVeotr.AssemblyInfoInputs.cache
+C:\Users\alunos\Desktop\LPR_2025\AulaVetores\PosicaoVeotr\obj\Debug\net9.0\PosicaoVeotr.AssemblyInfo.cs
+C:\Users\alunos\Desktop\LPR_2025\AulaVetores\PosicaoVeotr\obj\Debug\net9.0\PosicaoVeotr.csproj.CoreCompileInputs.cache
+C:\Users\alunos\Desktop\LPR_2025\AulaVetores\PosicaoVeotr\obj\Debug\net9.0\PosicaoVeotr.sourcelink.json
+C:\Users\alunos\Desktop\LPR_2025\AulaVetores\PosicaoVeotr\obj\Debug\net9.0\PosicaoVeotr.dll
+C:\Users\alunos\Desktop\LPR_2025\AulaVetores\PosicaoVeotr\obj\Debug\net9.0\refint\PosicaoVeotr.dll
+C:\Users\alunos\Desktop\LPR_2025\AulaVetores\PosicaoVeotr\obj\Debug\net9.0\PosicaoVeotr.pdb
+C:\Users\alunos\Desktop\LPR_2025\AulaVetores\PosicaoVeotr\obj\Debug\net9.0\PosicaoVeotr.genruntimeconfig.cache
+C:\Users\alunos\Desktop\LPR_2025\AulaVetores\PosicaoVeotr\obj\Debug\net9.0\ref\PosicaoVeotr.dll

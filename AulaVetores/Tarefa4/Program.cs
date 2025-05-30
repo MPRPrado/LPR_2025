@@ -1,0 +1,51 @@
+﻿using System;
+
+internal class Program
+   /* MATRIZ Crie um algoritmo que
+leia duas matrizes A e B, de tamanho 3x3, e
+calcule A*B. Dica abaixo:*/
+
+{
+    static void Main(string[] args)
+    {
+        int matrizA[3, 3] = new int[3, 3];
+        int matrizB[3, 3] = new int[3, 3];
+        int matrizResultado[3, 3] = new int[3, 3];
+        Conseole.WriteLine("Digite os elementos da matriz A (3x3):");
+        for (int i = 0; i < 3; i++)
+        {
+            for (int j = 0; j < 3; j++)
+            {
+                Console.Write($"Elemento A[{i + 1}, {j + 1}]: ");
+                matrizA[i, j] = Convert.ToInt32(Console.ReadLine());
+            }
+        }
+        Console.WriteLine("Digite os elementos da matriz B (3x3):");
+        for (int i = 0; i < 3; i++)
+        {
+            for (int j = 0; j < 3; j++)
+            {
+                Console.Write($"Elemento B[{i + 1}, {j + 1}]: ");
+                matrizB[i, j] = Convert.ToInt32(Console.ReadLine());
+            }
+        }
+        for (int i = 0; i < 3; i++)
+        {
+            for (int j = 0; j < 3; j++)
+            {
+                matrizResultado[i, j] = 0;
+                for (int k = 0; k < 3; k++)
+                {
+                    matrizResultado[i, j] += matrizA[i, k] * matrizB[k, j];
+                    console.WriteLine($"Resultado da multiplicação A[{i + 1}, {j + 1}] = {matrizResultado[i, j]}");
+                }
+            }
+        }
+
+
+
+
+
+
+    }
+}

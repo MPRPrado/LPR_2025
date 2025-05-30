@@ -4,7 +4,6 @@
 using namespace std;
 int main(){
     vector<int> numeros(10);
-    // digite 10 numeros e de pois indentifica e criar uma vetor para par e um para impar apos ler
     vector<int> pares;
     vector<int> impares;
     for(int i = 0; i < numeros.size(); i++){
