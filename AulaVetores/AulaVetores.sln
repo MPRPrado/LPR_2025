@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosicaoVeotr", "PosicaoVeotr\PosicaoVeotr.csproj", "{ACDBA4FA-034F-5AC2-F288-544F19163D31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefa4", "Tarefa4\Tarefa4.csproj", "{698F38BD-1160-3038-49F6-4E8AC44E6578}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACDBA4FA-034F-5AC2-F288-544F19163D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACDBA4FA-034F-5AC2-F288-544F19163D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACDBA4FA-034F-5AC2-F288-544F19163D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACDBA4FA-034F-5AC2-F288-544F19163D31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698F38BD-1160-3038-49F6-4E8AC44E6578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698F38BD-1160-3038-49F6-4E8AC44E6578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698F38BD-1160-3038-49F6-4E8AC44E6578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698F38BD-1160-3038-49F6-4E8AC44E6578}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {935AB5F4-8CBD-4836-98D6-362462002DDF}
+	EndGlobalSection
+EndGlobal
