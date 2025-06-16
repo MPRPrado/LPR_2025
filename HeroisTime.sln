@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefa4", "AulaVetores\Tarefa4\Tarefa4.csproj", "{D97088D8-43AA-44BD-9300-C56AC852B77F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AulaStruct", "AulaStruct", "{94A435DD-4DEC-2232-31E1-A7FD62ED6F44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herois", "AulaStruct\Herois\Herois.csproj", "{476E2E32-BAF3-495B-929F-1F6DE0340CD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +89,18 @@ Global
 		{D97088D8-43AA-44BD-9300-C56AC852B77F}.Release|x64.Build.0 = Release|Any CPU
 		{D97088D8-43AA-44BD-9300-C56AC852B77F}.Release|x86.ActiveCfg = Release|Any CPU
 		{D97088D8-43AA-44BD-9300-C56AC852B77F}.Release|x86.Build.0 = Release|Any CPU
+		{476E2E32-BAF3-495B-929F-1F6DE0340CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476E2E32-BAF3-495B-929F-1F6DE0340CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476E2E32-BAF3-495B-929F-1F6DE0340CD0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{476E2E32-BAF3-495B-929F-1F6DE0340CD0}.Debug|x64.Build.0 = Debug|Any CPU
+		{476E2E32-BAF3-495B-929F-1F6DE0340CD0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{476E2E32-BAF3-495B-929F-1F6DE0340CD0}.Debug|x86.Build.0 = Debug|Any CPU
+		{476E2E32-BAF3-495B-929F-1F6DE0340CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476E2E32-BAF3-495B-929F-1F6DE0340CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{476E2E32-BAF3-495B-929F-1F6DE0340CD0}.Release|x64.ActiveCfg = Release|Any CPU
+		{476E2E32-BAF3-495B-929F-1F6DE0340CD0}.Release|x64.Build.0 = Release|Any CPU
+		{476E2E32-BAF3-495B-929F-1F6DE0340CD0}.Release|x86.ActiveCfg = Release|Any CPU
+		{476E2E32-BAF3-495B-929F-1F6DE0340CD0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,5 +108,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{119C1F9D-1E8B-4D96-BDC8-F65EF6656E93} = {1B128C3F-6498-9CF9-6301-2FB5BDF45040}
 		{D97088D8-43AA-44BD-9300-C56AC852B77F} = {1B128C3F-6498-9CF9-6301-2FB5BDF45040}
+		{476E2E32-BAF3-495B-929F-1F6DE0340CD0} = {94A435DD-4DEC-2232-31E1-A7FD62ED6F44}
 	EndGlobalSection
 EndGlobal
