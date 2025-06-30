@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "xutility": "cpp",
+        "list": "cpp"
+    },
+    "dotnet.defaultSolution": "Ex1.sln"
+}
