@@ -1,0 +1,15 @@
+C:\Users\Alunos\LPR_2025\Aula(11)-POO\retangulo\bin\Debug\net6.0\retangulo.exe
+C:\Users\Alunos\LPR_2025\Aula(11)-POO\retangulo\bin\Debug\net6.0\retangulo.deps.json
+C:\Users\Alunos\LPR_2025\Aula(11)-POO\retangulo\bin\Debug\net6.0\retangulo.runtimeconfig.json
+C:\Users\Alunos\LPR_2025\Aula(11)-POO\retangulo\bin\Debug\net6.0\retangulo.dll
+C:\Users\Alunos\LPR_2025\Aula(11)-POO\retangulo\bin\Debug\net6.0\retangulo.pdb
+C:\Users\Alunos\LPR_2025\Aula(11)-POO\retangulo\obj\Debug\net6.0\retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\LPR_2025\Aula(11)-POO\retangulo\obj\Debug\net6.0\retangulo.AssemblyInfoInputs.cache
+C:\Users\Alunos\LPR_2025\Aula(11)-POO\retangulo\obj\Debug\net6.0\retangulo.AssemblyInfo.cs
+C:\Users\Alunos\LPR_2025\Aula(11)-POO\retangulo\obj\Debug\net6.0\retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\LPR_2025\Aula(11)-POO\retangulo\obj\Debug\net6.0\retangulo.sourcelink.json
+C:\Users\Alunos\LPR_2025\Aula(11)-POO\retangulo\obj\Debug\net6.0\retangulo.dll
+C:\Users\Alunos\LPR_2025\Aula(11)-POO\retangulo\obj\Debug\net6.0\refint\retangulo.dll
+C:\Users\Alunos\LPR_2025\Aula(11)-POO\retangulo\obj\Debug\net6.0\retangulo.pdb
+C:\Users\Alunos\LPR_2025\Aula(11)-POO\retangulo\obj\Debug\net6.0\retangulo.genruntimeconfig.cache
+C:\Users\Alunos\LPR_2025\Aula(11)-POO\retangulo\obj\Debug\net6.0\ref\retangulo.dll
