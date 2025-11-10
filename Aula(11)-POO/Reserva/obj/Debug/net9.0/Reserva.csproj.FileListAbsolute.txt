@@ -1,0 +1,13 @@
+c:\Users\Alunos\LPR_2025\Aula(11)-POO\Reserva\bin\Debug\net9.0\Reserva.exe
+c:\Users\Alunos\LPR_2025\Aula(11)-POO\Reserva\bin\Debug\net9.0\Reserva.deps.json
+c:\Users\Alunos\LPR_2025\Aula(11)-POO\Reserva\bin\Debug\net9.0\Reserva.runtimeconfig.json
+c:\Users\Alunos\LPR_2025\Aula(11)-POO\Reserva\bin\Debug\net9.0\Reserva.dll
+c:\Users\Alunos\LPR_2025\Aula(11)-POO\Reserva\bin\Debug\net9.0\Reserva.pdb
+c:\Users\Alunos\LPR_2025\Aula(11)-POO\Reserva\obj\Debug\net9.0\Reserva.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\LPR_2025\Aula(11)-POO\Reserva\obj\Debug\net9.0\Reserva.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\LPR_2025\Aula(11)-POO\Reserva\obj\Debug\net9.0\Reserva.sourcelink.json
+c:\Users\Alunos\LPR_2025\Aula(11)-POO\Reserva\obj\Debug\net9.0\Reserva.dll
+c:\Users\Alunos\LPR_2025\Aula(11)-POO\Reserva\obj\Debug\net9.0\refint\Reserva.dll
+c:\Users\Alunos\LPR_2025\Aula(11)-POO\Reserva\obj\Debug\net9.0\Reserva.pdb
+c:\Users\Alunos\LPR_2025\Aula(11)-POO\Reserva\obj\Debug\net9.0\Reserva.genruntimeconfig.cache
+c:\Users\Alunos\LPR_2025\Aula(11)-POO\Reserva\obj\Debug\net9.0\ref\Reserva.dll
