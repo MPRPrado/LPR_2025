@@ -13,7 +13,7 @@ This repository contains tasks and exercises from the **Programming Languages** 
 **ETE "FMC" – Systems Development**.  
 
 The main goal is to practice **C++** and **C#** through structured lessons,  
-ranging from basic syntax to more advanced concepts like functions, arrays, and data structures.  
+ranging from basic syntax to advanced concepts like functions, arrays, data structures, and object-oriented programming.  
 
 ---
 
@@ -39,82 +39,94 @@ ranging from basic syntax to more advanced concepts like functions, arrays, and 
 ## 🗂️ Project Structure  
 
 ```text
-📁 LPR2025
-├── 📁 Aula(1)
-├── 📁 Aula(2)
-├── 📁 Aula(3)
-├── 📁 Aula(4)
-├── 📁 Aula(5)-Selecao
-├── 📁 Aula(6)-Repeat
-├── 📁 Aula(7)-Funções
-├── 📁 Aula(8)-Struct
-├── 📁 Aula(9)-Vetores
-├── 📁 Aula(10)-Listas
+📁 LPR_2025
+├── 📁 Aula(1) - Introduction
+├── 📁 Aula(2) - Basic Syntax
+├── 📁 Aula(3) - Control Structures
+├── 📁 Aula(4) - Loops
+├── 📁 Aula(5)-Selecao - Selection Structures
+├── 📁 Aula(6)-Repeat - Advanced Repetition
+├── 📁 Aula(7)-Funções - Functions
+├── 📁 Aula(8)-Struct - Data Structures
+├── 📁 Aula(9)-Vetores - Arrays & Vectors
+├── 📁 Aula(10)-Listas - Lists & Collections
+├── 📁 Aula(11)-POO - Object-Oriented Programming
 └── 📄 README.md
+```
 🔹 Each folder represents one lesson, with the corresponding source code and exercises.
 
-🧾 Lessons Overview
+---
 
-Aula(1) – Introduction → First steps in programming.
+## 🧾 Lessons Overview
 
-Aula(2) – Basic Syntax → Variables, input/output, operators.
+**Aula(1)** – Introduction → First steps in programming.
 
-Aula(3) – Control Structures → If/else, logical operators.
+**Aula(2)** – Basic Syntax → Variables, input/output, operators.
 
-Aula(4) – Loops → While, for, do-while.
+**Aula(3)** – Control Structures → If/else, logical operators.
 
-Aula(5) – Selection → Switch-case, decision-making structures.
+**Aula(4)** – Loops → While, for, do-while.
 
-Aula(6) – Repeat → Advanced repetition and iterations.
+**Aula(5)** – Selection → Switch-case, decision-making structures.
 
-Aula(7) – Functions → Modularization and reusability of code.
+**Aula(6)** – Repeat → Advanced repetition and iterations.
 
-Aula(8) – Struct → Custom data structures.
+**Aula(7)** – Functions → Modularization and reusability of code.
 
-Aula(9) – Arrays & Vectors → Sequential data storage.
+**Aula(8)** – Struct → Custom data structures.
 
-Aula(10) – Lists & Dictionaries → More complex data collections.
+**Aula(9)** – Arrays & Vectors → Sequential data storage.
 
-⚡ How to Run
-▶️ Run with Visual Studio Code
+**Aula(10)** – Lists & Collections → More complex data collections.
+
+**Aula(11)** – Object-Oriented Programming → Classes, objects, inheritance.
+
+---
+
+## ⚡ How to Run
+
+### ▶️ Run with Visual Studio Code
+```bash
 # Clone the repository
-git clone https://github.com/your-username/LPR2025.git
+git clone https://github.com/your-username/LPR_2025.git
 
 # Navigate to the project folder
-cd LPR2025
+cd LPR_2025
 
 # Open in VS Code
 code .
-▶️ Run with Visual Studio Community
+```
 
-Open Visual Studio Community.
+### ▶️ Run with Visual Studio Community
 
-Click Open Project/Solution.
+1. Open Visual Studio Community.
+2. Click **Open Project/Solution**.
+3. Select the `.csproj` or `.sln` file (for C#) or configure a C++ project.
+4. Press **F5** to build and run.
 
-Select the .csproj or .sln file (for C#) or configure a C++ project.
+---
 
-Press F5 to build and run.
+## 📈 Roadmap
 
-📈 Roadmap
+- ✅ Introduction to C++ and C#
+- ✅ Control structures and loops
+- ✅ Functions and modularization
+- ✅ Structs and arrays
+- ✅ Advanced collections (linked lists, dictionaries)
+- ✅ Object-oriented programming fundamentals
+- 🔄 Advanced OOP concepts (inheritance, polymorphism)
+- 🔄 Design patterns and best practices
 
- Introduction to C++ and C#
+---
 
- Control structures and loops
+## 👤 Author
 
- Functions and modularization
+**Matheus Prado Ribeiro**  
+🔗 [LinkedIn](https://linkedin.com)
 
- Structs and arrays
+---
 
- Advanced collections (linked lists, dictionaries)
+## 📜 License
 
- Object-oriented programming in depth
-
-👤 Author
-
-Matheus Prado Ribeiro
-🔗 LinkedIn
-
-📜 License
-
-This project is for educational purposes only.
+This project is for educational purposes only.  
 Feel free to study, improve, and share it as long as proper credit is given. ✨
